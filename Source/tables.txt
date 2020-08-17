@@ -1,0 +1,2 @@
+connect system/system;
+create table tblregister(name varchar2(32),uname varchar2(32),pwd varchar2(12),phoneno varchar2(12));
